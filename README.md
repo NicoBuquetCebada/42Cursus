@@ -1,4 +1,4 @@
-## Hello! This is the repository where I store all the proyects of the 42 Cursus
+## Hi! This is the repository where I store all the proyects of the 42 Cursus
 
 ### Proyect Index
 - Mileston 0: [Libft](mileston0/Libft)
