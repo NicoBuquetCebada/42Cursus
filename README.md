@@ -5,7 +5,7 @@
 - Mileston 1: [ft_printf](mileston1/ft_printf) | [get_next_line](mileston1/get_next_line) | [born2beroot](mileston1/born2beroot)
 - Mileston 2: [push_swap](mileston2/push_swap) | [pipex](mileston2/pipex) | [fdf](mileston2/fdf)
 
-### <img width="27" heigth="27" src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png">
+## <img width="27" heigth="27" src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png">
 42 is a global, tuition-free programming school focused on peer-to-peer learning, real-world projects, and fostering creativity and autonomy.
 It prepares students for careers in technology without traditional teachers or classes.
 
